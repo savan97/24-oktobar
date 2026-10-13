@@ -1,0 +1,17 @@
+# Local (by Flywheel) generated files
+logs/
+app/.envrc
+
+# Local credentials
+app/public/wp-config.php
+
+# Uploads and cache
+app/public/wp-content/uploads/
+app/public/wp-content/cache/
+app/public/wp-content/upgrade/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
