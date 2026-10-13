@@ -15,3 +15,6 @@ app/public/wp-content/upgrade/
 Thumbs.db
 .vscode/
 .idea/
+
+# Interna dokumentacija (pitanja za klijenta i sl.)
+docs/interno/
